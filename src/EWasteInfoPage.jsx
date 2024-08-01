@@ -69,7 +69,7 @@ const EWasteInfoPage = () => {
             <FaDiscord size={24} />
           </a>
           <a 
-            href="https://www.facebook.com/utm.physics.club" 
+            href="https://www.facebook.com/people/UTM-Physics-Club/61563066107515/" 
             className="inline-block bg-gradient-to-r from-blue-600 via-blue-700 to-blue-800 text-white font-bold py-2 px-4 rounded-full shadow-lg transform transition-transform hover:scale-105"
             target="_blank" 
             rel="noopener noreferrer"
@@ -85,7 +85,7 @@ const EWasteInfoPage = () => {
             <FaLinkedin size={24} />
           </a>
           <a 
-            href="https://twitter.com/utm_physics_club" 
+            href="https://x.com/utm_physics" 
             className="inline-block bg-black text-white font-bold py-2 px-4 rounded-full shadow-lg transform transition-transform hover:scale-105"
             target="_blank" 
             rel="noopener noreferrer"
